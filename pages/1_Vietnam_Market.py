@@ -11,7 +11,7 @@ from pypfopt import risk_models
 from pypfopt import expected_returns
 
 
-st.set_page_config(page_title="VietNam Market Stock")
+st.set_page_config(page_title="Vietnam Market Stock")
 
 list_name = []
 list_df = []
