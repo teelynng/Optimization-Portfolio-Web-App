@@ -6,3 +6,4 @@ numpy==1.24.2
 matplotlib==3.6.0
 pyportfolioopt==1.5.4
 yfinance==0.2.12
+altair<5
